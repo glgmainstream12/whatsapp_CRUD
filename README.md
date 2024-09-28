@@ -1,9 +1,6 @@
-Certainly! Below is the `README.md` content for your WhatsApp CRUD System. You can copy and paste this into a `README.md` file in your project.
-
-```markdown
 # WhatsApp CRUD System with TypeScript and whatsapp-web.js
 
-This project is a CRUD (Create, Read, Update, Delete) system built with **TypeScript** and **[whatsapp-web.js](https://wwebjs.dev/)** that allows you to interact with WhatsApp personal and group chats programmatically. You can send and receive messages, manage group chats, and store messages with automatic cleanup after one month. The application includes an API that you can interact with using tools like Postman.
+This project is a CRUD (Create, Read, Update, Delete) system built with **TypeScript** and **[whatsapp-web.js](https://wwebjs.dev/)** that allows you to interact with WhatsApp personal and group chats programmatically. You can send and receive messages, manage group chats, and store messages with automatic cleanup after one month. The application also includes an API that you can interact with using tools like Postman.
 
 ## Table of Contents
 
@@ -585,5 +582,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-If you have any questions or need further assistance, feel free to contact me at [gilangfauzan12@gmail.com](mailto:gilangfauzan12@gmail.com).
-```
+If you have any questions or need further assistance, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
